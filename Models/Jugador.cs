@@ -1,4 +1,6 @@
-namespace Tareas.Models;
+using System.ComponentModel.DataAnnotations;
+
+namespace FormLol.Models;
 
 public class Jugador
 {
